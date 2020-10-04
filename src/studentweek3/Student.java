@@ -1,7 +1,6 @@
 /*
- * Arshdeep kaur
- * Student Id: 991545648
- * SYST10199 - Web Programming
+ * Megha Gupta
+ * Student Id: 12345
  */
 package studentweek3;
 
